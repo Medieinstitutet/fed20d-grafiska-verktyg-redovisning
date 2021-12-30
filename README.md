@@ -6,3 +6,8 @@ Här nedan kommer du att hitta en lista med färdiga projekt från kursen Grafis
 ### Remmar ↔ Jenni
 - [Circus Citrus](https://rebeckaalsterlind.github.io/circus_citrus/) ([repo](https://github.com/rebeckaalsterlind/circus_citrus)) / Rebecka Alsterlind & Emma Hammar
 - [Matateljen](https://fed20d-matateljen.jennipulli.se/) ([repo](https://github.com/Medieinstitutet/fed20d-grafiska-verktyg-matateljen)) / Jenni Pulli
+
+### Tootsie Rolls ↔ Lemon Drops
+- [Red Bull](https://gabriellekamph.github.io/tootsie-rolls/) ([repo](https://github.com/gabriellekamph/tootsie-rolls)) / Antonia Pettersson, Luiza Skowronska, Petter Sjunnestrand & Gabrielle Kamph
+
+
