@@ -12,6 +12,7 @@ Här nedan kommer du att hitta en lista med färdiga projekt från kursen Grafis
 ### Tootsie Rolls ↔ Lemon Drops
 
 -   [Red Bull](https://gabriellekamph.github.io/tootsie-rolls/) ([repo](https://github.com/gabriellekamph/tootsie-rolls)) / Antonia Pettersson, Luiza Skowronska, Petter Sjunnestrand & Gabrielle Kamph
+-   [Årets glöggsmaker](https://brave-turing-b1d1be.netlify.app/) ([repo](https://github.com/MatsHaby/GV_Design-Sprint/tree/main/design)) / Mats Haby, Josefin Löfgren, Durre Shewar Malik & Igor Milosevic
 
 ### Lollipop ↔ Sesame Snaps
 
