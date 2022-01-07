@@ -18,6 +18,8 @@ Här nedan kommer du att hitta en lista med färdiga projekt från kursen Grafis
 
 -   [Poke Queen](https://nifty-blackwell-8beed5.netlify.app/)([repo](https://github.com/rebecka-oscarsson/lollipop.git)) / Emil Nilsson, Rebecca Oscarsson, Axel Pahne, Sara Mohammadisedaghat
 
+-   [Fiskarium](https://aahland.github.io/fiskarium/)([repo](https://github.com/aahland/fiskarium)) / Anton Åhlander, Johanna Bertils, Joanna Beyene, Malin Aline Boëthius
+
 ### Chocolate muffin ↔ Chupa Chops
 
 -   [Raptor bicycles](https://ant1n.github.io/Chupa-Chups/)([repo](https://github.com/Ant1N/Chupa-Chups)) / Isak Antin, Sara Kjellemo, Olesia Baginski
