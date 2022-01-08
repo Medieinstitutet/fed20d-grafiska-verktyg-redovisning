@@ -2,6 +2,8 @@
 
 Här nedan kommer du att hitta en lista med färdiga projekt från kursen Grafiska Verktyg, FED20D.
 
+Feedback finns i filen [Feedback.md](https://github.com/Medieinstitutet/fed20d-grafiska-verktyg-redovisning/blob/main/Feedback.md)
+
 ## Färdiga sajter
 
 ### Remmar ↔ Jenni
