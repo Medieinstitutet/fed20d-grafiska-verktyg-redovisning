@@ -1,11 +1,11 @@
-# Feedback
+# 👏 Feedback
 Hej, här kommer feedback till alla grupper! Jag tänker att det är nyttigt att också ta del av andras feedback, så därför kommer den samlad.
 
 **Har jag missat att säga att något** ni/du har gjort är bra, som jag kommenterat på någon annans projekt, så ta till dig av det. Samma sak, om det finns förbättringspotential i något, som ett annat projekt fått kommentarer på, men du/ni kanske inte tänkt på.
 
 - [ ] Ett tips är att samla på sig en egen "[launch checklist](https://www.websitelaunchchecklist.com/)", t.ex. som ett privat repo på GitHub, där man går igenom sådant som är bra att tänka på inför en lansering av ett projekt. t.ex. dubbelkolla färgkontraster, aria labels, SEO, osv. Det är omöjligt att hålla allt i huvudet.
 
-## Generell feedback
+## 😡 Generell feedback
 Några vanliga issues, som nästan uteslutande alla projekt har haft problem med (lägg till på era launch checklists).
 
 ### Font size i en tillgänglig enhet
@@ -30,7 +30,7 @@ Lägg gärna in en README på projektet, särskilt om ni planerar att visa det f
 
 [Inspo](https://readme.so/)
 
-## Projekt-baserad feedback
+## 🦄 Projekt-baserad feedback
 
 - [hers.](#hers)
 - [Save the Bees](#Save-the-Bees)
